@@ -1,0 +1,10 @@
+npm init
+npm install expres ejs
+npm install nodemon --save-dev
+
+
+to start set package.json on bottom of test "test": "echo \"Error: no test specified\" && exit 1",
+to "start": "nodemon app.js"
+
+
+ to start >nodemon app.js
